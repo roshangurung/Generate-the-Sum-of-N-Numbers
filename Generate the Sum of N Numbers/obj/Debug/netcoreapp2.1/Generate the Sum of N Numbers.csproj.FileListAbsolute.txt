@@ -1,0 +1,11 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\bin\Debug\netcoreapp2.1\Generate the Sum of N Numbers.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\bin\Debug\netcoreapp2.1\Generate the Sum of N Numbers.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\bin\Debug\netcoreapp2.1\Generate the Sum of N Numbers.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\bin\Debug\netcoreapp2.1\Generate the Sum of N Numbers.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\bin\Debug\netcoreapp2.1\Generate the Sum of N Numbers.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\obj\Debug\netcoreapp2.1\Generate the Sum of N Numbers.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\obj\Debug\netcoreapp2.1\Generate the Sum of N Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\obj\Debug\netcoreapp2.1\Generate the Sum of N Numbers.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\obj\Debug\netcoreapp2.1\Generate the Sum of N Numbers.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\obj\Debug\netcoreapp2.1\Generate the Sum of N Numbers.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Generate the Sum of N Numbers\Generate the Sum of N Numbers\obj\Debug\netcoreapp2.1\Generate the Sum of N Numbers.pdb
